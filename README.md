@@ -20,4 +20,4 @@ The task is a simplified version of the Netflix Challenge from 2009.
 
 The goal is to predict the rating of users from the Test set for a specific unseen movie - <em>Miss Congeniality</em>.  The rating for that move (which is the response variable) was given only for the training set.
 
-##
+Link the report file "netflix_report.pdf" inside the repo.
